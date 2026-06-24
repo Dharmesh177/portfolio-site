@@ -8,7 +8,7 @@ tech:
   - Javascript
   - CSS
   - Node.JS
-showInProjects: true
+showInProjects: false
 ---
 
 Anjal Gems is a well-known name in the lab-grown diamond industry in Gujarat. Get chance to work with them and Designed and Developed Website for them.

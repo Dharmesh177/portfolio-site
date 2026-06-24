@@ -8,9 +8,8 @@ tech:
   - React.js
   - Node.js
   - Express.js
-  - Mongodb
+  - MongoDB
   - 100ms API
 ---
 
-Our project will be an online education portal focusing on educational fields, sharing study knowledge, and ideas, between individuals or groups interested in sharing knowledge of events conducted in different institutions. It also includes seamless integration with all the educational resources in order to greater
-communication from beginner to expert.
+Built Mentro, an online learning portal for sharing study resources, educational events, and peer mentoring sessions. Integrated communication and collaboration features to support learners from beginner to advanced levels.

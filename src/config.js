@@ -7,12 +7,8 @@ module.exports = {
       url: 'https://github.com/Dharmesh177',
     },
     {
-      name: 'Linkedin',
+      name: 'LinkedIn',
       url: 'https://www.linkedin.com/in/dharmesh-vala-252724204/',
-    },
-    {
-      name: 'Twitter',
-      url: 'https://twitter.com/Dharmes33580950',
     },
   ],
 
@@ -26,7 +22,7 @@ module.exports = {
       url: '/#jobs',
     },
     {
-      name: 'Work',
+      name: 'Projects',
       url: '/#projects',
     },
     {

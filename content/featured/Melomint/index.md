@@ -12,5 +12,4 @@ tech:
   - MySQL
 ---
 
-Designed and developed a website for an NGO called Manavta Ni Mahek, dedicated to animal rescue. providing a platform for them to reach a wider
-audience and Integrated a real-time payment gateway using Razor Pay in the donation section.
+Designed and developed a website for Manavta Ni Mahek, an NGO focused on animal rescue. Built the platform to improve outreach and integrated a real-time Razorpay donation flow.

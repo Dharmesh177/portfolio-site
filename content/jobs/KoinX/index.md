@@ -1,12 +1,12 @@
 ---
 date: '4'
-title: 'Frontend Developer Intern'
-company: 'Rablo. In'
-location: 'Bhuvaneshwar, India'
-range: 'Mar 2023 - April 2023'
-url: 'https://rablo.in/'
+title: 'Software Engineer Intern'
+company: 'Zeus Learning Private Limited'
+location: 'Remote'
+range: 'Jan 2024 - May 2024'
+url: 'https://www.zeuslearning.com/'
 ---
 
-- Worked on the design and integration of Student and Tutor Dashboard components,Integrated them into an ongoing product in development.
-- Revamped the codebase of the e-learning app Rablo.in, significantly improving the user interface of existing modules in alignment with audit guidelines
-- Communicate with multi-disciplinary teams of engineers, and designers on a daily basis
+- Implemented WCAG 2.1 AA-compliant Angular components and GraphQL APIs to improve accessibility and performance.
+- Automated repetitive QA checks using Selenium-based suites, reducing manual validation effort by 60%.
+- Collaborated with engineers and designers to deliver feature increments in an agile development cycle.

@@ -13,4 +13,4 @@ tech:
   - Figma
 ---
 
-Developed a portal where Student of various colleges can upload their projects and plagarism will checked on thats as well as Implemented Recommendation model on supporting peer to peer learning.
+Built ProjectExpo, a platform where students from multiple colleges can publish and discover projects in one place. Added plagiarism checks and a recommendation module to support peer-to-peer learning and project quality.

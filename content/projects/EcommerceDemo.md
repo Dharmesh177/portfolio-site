@@ -8,7 +8,7 @@ tech:
   - Node.js
   - Express.js
   - Mongodb
-showInProjects: true
+showInProjects: false
 ---
 
 This is Bicycle Selling System basically an e-commerce website where user can buy and sell bicycles and orders and payment gateway also implemented.

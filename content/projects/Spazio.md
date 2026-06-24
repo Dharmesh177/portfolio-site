@@ -8,7 +8,7 @@ tech:
   - Node.js
   - Vercel
   - CSS
-showInProjects: true
+showInProjects: false
 ---
 
 Developed and integrated Website for CSCODETECH for high-traffic service-based website, serving a global user community.
